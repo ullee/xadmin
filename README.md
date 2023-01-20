@@ -6,7 +6,8 @@
 
 > TUI 화면 예시
 > ```sh
-> make && make install
+> $ make && make install
+> $ ./xadmin
 > ```
 
 <div>
